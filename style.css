@@ -19,3 +19,39 @@
 .mbody{
   text-align: center;
 }
+
+.content{
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+
+}
+
+.logo{
+  height: 350px;
+  width: 650px;
+
+}
+
+.para1{
+  color: #36454f;
+  width: 70%;
+  margin: auto;
+}
+
+.trophy{
+  height: 400px;
+  width: 360px;
+}
+
+.poster{
+  height: 550px;
+  width: 490px;
+}
+
+.para2{
+  width: 50%;
+  margin: auto;
+  color: #36454f;
+  
+}
