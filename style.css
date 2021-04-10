@@ -1,9 +1,4 @@
-.headm{
-  position: relative;
-  top: 200px;
-  color: #66bfbf;
-  font-size: 60px;
-}
+
 
 .heads{
   position: relative;
@@ -14,7 +9,7 @@
 
 
 .mbody{
-  text-align: center;
+  background-color: #e0f2f7;
 }
 
 .content{
@@ -53,148 +48,28 @@
 
 }
 
-.container-fluid{
-  background-color: #0b3861;
-  height: 150px;
+.psh{
+  background-color: #084b8a;
+  height: 70px;
+  text-align: center;
 }
 
-.stathead{
-  color: #f2f2f2;
-  padding-left: 550px;
-  padding-top: 50px
+.sthead{
+  color: #e6e6e6;
+  padding-top: 10px;
 }
 
-.sth{
-  background-color:  #0b3861;
-  height: 50px;
-}
-
-.player{
-  position: relative;
- color: #f2f2f2;
- left: 300px;
-}
-
-.runs{
-  position: relative;
- color: #f2f2f2;
- left: 900px;
- bottom: 40px;
-}
-
-.pcol{
+.sbody{
   background-color: #e0f2f7;
-  height: 615px;
-
 }
 
-.p1{
-  position: absolute;
-  top: 390px;
+.mhd{
+  background-color: #084b8a;
+  height: 70px;
+  text-align: center;
 }
 
-.p2{
-  position: absolute;
-  top: 450px;
-}
-
-.p3{
-  position: absolute;
-  top: 510px;
-}
-
-.p4{
-  position: absolute;
-  top: 570px;
-}
-
-.p5{
-  position: absolute;
-  top: 630px;
-}
-
-.p6{
-  position: absolute;
-  top: 690px;
-}
-
-.p7{
-  position: absolute;
-  top: 740px;
-}
-
-.p8{
-  position: absolute;
-  top: 800px;
-}
-
-.p9{
-  position: absolute;
-  top: 860px;
-}
-
-.p10{
-  position: absolute;
-  top: 910px;
-}
-
-
-.r1{
-  position: absolute;
-  top: 390px;
-  right: 600px;
-}
-
-.r2{
-  position: absolute;
-  top: 450px;
-  right: 600px;
-}
-
-.r3{
-  position: absolute;
-  top: 510px;
-  right: 600px;
-}
-
-.r4{
-  position: absolute;
-  top: 570px;
-  right: 600px;
-}
-
-.r5{
-  position: absolute;
-  top: 630px;
-  right: 600px;
-}
-
-.r6{
-  position: absolute;
-  top: 690px;
-  right: 600px;
-}
-
-.r7{
-  position: absolute;
-  top: 740px;
-  right: 600px;
-}
-
-.r8{
-  position: absolute;
-  top: 800px;
-  right: 600px;
-}
-
-.r9{
-  position: absolute;
-  top: 860px;
-  right: 600px;
-}
-
-.r10{
-  position: absolute;
-  top: 910px;
-  right: 600px;
+.mthead{
+  color: #e6e6e6;
+  padding-top: 10px;
 }
