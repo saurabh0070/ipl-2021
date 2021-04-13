@@ -20,20 +20,20 @@
 }
 
 .logo{
-  height: 350px;
-  width: 650px;
+  width: 100%;
 
 }
 
 .para1{
-  color: #36454f;
-  width: 70%;
+  color: #d8d8d8;
+  width: 80%;
   margin: auto;
+  font-size: 1.7rem;
 }
 
 .trophy{
-  height: 400px;
-  width: 360px;
+
+  width: 100%;
 }
 
 .poster{
@@ -44,7 +44,8 @@
 .para2{
   width: 50%;
   margin: auto;
-  color: #36454f;
+  color: #d8d8d8;
+  font-size: 1.7rem;
 
 }
 
