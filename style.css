@@ -74,3 +74,75 @@
   color: #e6e6e6;
   padding-top: 10px;
 }
+
+.teamRR{
+  background-color: pink;
+  height: 30px;
+  width: 70px;
+  color: white;
+  font-size: 1.6rem;
+  border-radius: 5%;
+}
+
+.teamPBKS{
+  background-color: red;
+  height: 30px;
+  width: 70px;
+  color: white;
+    font-size: 1.6rem;
+      border-radius: 5%;
+}
+
+.teamMI{
+  background-color: blue;
+  height: 30px;
+  width: 70px;
+  color: white;
+    font-size: 1.6rem;
+      border-radius: 5%;
+}
+
+.teamRCB{
+  background-color: #ff0040;
+  height: 30px;
+  width: 70px;
+  color: white;
+    font-size: 1.6rem;
+      border-radius: 5%;
+}
+
+.teamCSK{
+  background-color: #f5da81;
+  height: 30px;
+  width: 70px;
+  color: white;
+    font-size: 1.6rem;
+      border-radius: 5%;
+}
+
+.teamDC{
+  background-color: #2e9afe;
+  height: 30px;
+  width: 70px;
+  color: white;
+    font-size: 1.6rem;
+      border-radius: 5%;
+}
+
+.teamSRH{
+  background-color: #fa8258;
+  height: 30px;
+  width: 70px;
+  color: white;
+    font-size: 1.6rem;
+      border-radius: 5%;
+}
+
+.teamKKR{
+  background-color: #8904b1;
+  height: 30px;
+  width: 70px;
+  color: white;
+    font-size: 1.6rem;
+      border-radius: 5%;
+}
