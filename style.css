@@ -9,9 +9,22 @@
 
 
 .mbody{
-  background-color: #2e2e2e;
+  background-image: url('wp7104783.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: left;
 }
 
+@media only screen and (max-width: 800px) {
+  .mbody{
+
+
+    background-image:url(https://images.unsplash.com/photo-1512719994953-eabf50895df7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3RhZGl1bXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
 .content{
   text-align: center;
   padding-left: 100px;
@@ -68,6 +81,7 @@
   background-color: #084b8a;
   height: 70px;
   text-align: center;
+
 }
 
 .mthead{
@@ -153,7 +167,7 @@
   background-size: cover;
 }
 
-@media only screen and (max-width: 1050px) {
+@media only screen and (max-width: 800px) {
   .iplbgi{
 
 
