@@ -142,27 +142,4 @@
       border-radius: 5%;
 }
 
-.iplbgi{
-  background-image: url('wp7104783.jpg');
-  background-attachment: fixed;
-  background-size: cover;
-}
 
-@media only screen and (max-width: 800px) {
-  .iplbgi{
-
-
-    background-image:url(https://images.unsplash.com/photo-1512719994953-eabf50895df7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3RhZGl1bXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80) ;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-  }
-.para1{
-  width: 60%;
-  color: white;
-}
-.para2{
-  width: 60%;
-  color: white;
-}
-}
