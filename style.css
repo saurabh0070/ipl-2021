@@ -19,7 +19,7 @@
 }
 
 .para1{
-  color: black;
+  color: white;
   width: 40%;
   margin: auto;
   font-size: 1.7rem;
@@ -38,7 +38,7 @@
 .para2{
   width: 40%;
   margin: auto;
-  color: black;
+  color: white;
   font-size: 1.7rem;
 
 }
@@ -142,4 +142,7 @@
       border-radius: 5%;
 }
 
-
+.iplbgi{
+  background-color: black;
+  
+}
